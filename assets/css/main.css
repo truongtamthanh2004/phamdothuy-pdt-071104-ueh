@@ -23,6 +23,7 @@
     margin: 0 8px;
     position: relative;
     min-height: 26px;
+    z-index: 2;
 }
 
 .header__navbar-user {
